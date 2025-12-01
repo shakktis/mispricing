@@ -1,0 +1,9 @@
+{
+  "meeting_month": "2025-09",
+  "meeting_date": "2025-09-17",
+  "R0_bps": 525,
+  "dist": [
+    {"rate_bps": 525, "prob": 0.7},
+    {"rate_bps": 550, "prob": 0.3}
+  ]
+}
